@@ -2,6 +2,8 @@
 
 Ce projet vise à entraîner un modèle de langage de type Llama 4 à partir de zéro, en utilisant PyTorch. Le code inclus implémente les composants clés d'un modèle Transformer, y compris l'attention multi-tête, l'incorporation positionnelle rotative (RoPE), et une architecture Mixture of Experts (MoE).
 
+Source : https://levelup.gitconnected.com/building-llama-4-from-scratch-with-python-6056aae738a1
+
 ## Structure du Projet
 
 Le projet est organisé comme suit :
